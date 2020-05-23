@@ -146,7 +146,7 @@
     * the best subject is **humble rustic life**
   * Coleridge's objective was more "romantic", aimed to provoke a *suspension of disbelief*
 * focus on **nature** and its effect on the human mind
-  * nature as the expression ofthe ideal in the real
+  * nature as the expression of the ideal in the real
 
 #### I Wandered Lonely as a Cloud (1815)
 * inspired by a walk with his sister Dorothy and the sight of a field of daffodils
@@ -160,11 +160,49 @@
   * opposite to Blake's *London*
   * fusion **man + nature** which can only occur in **solitude**
 * set at dawn, when the city is quiet
-* nostalgia for the **idyllic natural landscape** that is disappearing 
+* nostalgia for the **idyllic natural landscape** that is disappearing
 
+### Samuel Taylor Coleridge (1772-1834)
+* worked with Wordsworth on the *Lyrical Ballads*, for which he writes *The Rime of the Ancient Mariner*
+* like Wordsworth, pro-revolution at first, then conservative
 
+#### The Rime of the Ancient Mariner
+* story of a mariner who killed an albatross for no apparent reason and is then punished for that
+* written in the form of a **medieval ballad**, meant to be read by anyone
+* creation of a magical world where realistic and supernatural coexist
+* many possible interpretations
+  * parable of the man and the **original sin**
+    * the *act* of the mariner is without reason
+    * the *punishment* is isolation from the rest of the crew on the ship
+    * the *penitence* is the obsessive and unavoidable repetition of the story
+  * conflict between man and nature
+    * the tendency of man to **overcome nature's limits**
+  * the **curse of the poet**, living beyond the limit that ordinary people set
+  * opposition **rationality** (the sun) *vs* **irrationality** (the moon, under the light of which the main good events occur)
+    * conflict between the real world (where the mariner narrates the story) and the imaginated one
 
+### Percy Bysshe Shelley (1792-1822)
+* highly educated
+* radical thinker, expelled from University for circulating pamphlets on the necessity of atheism
+* peculiar **highly-toned style**
+  * the idea he wants to convey is more profound than words
+  * words and objects hide a **deeper absolute** which they fail to express
+  * **impersonal** poems, often set in **desolate places**
 
+#### Ozymandias (ca. 1817)
+* travel to the *antique land* (Egypt) and sight of Ramses II's statue
+  * the faraon's body is missing
+    * allusion to the body of the empire (the land and the people) that are missing as well
+    * opposition of the present and past time and the **almighty destiny**
+```
+    Look on my works, ye mighty and despair
+```
+  * the works of the emperor are missing, because **time annihilates everything**
+```
+	nothing beside remains
+```
+  * the *works* could be the ones of distruction
+    * allusion to devastation caused by **imperial ambitions**
 
 
 
