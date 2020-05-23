@@ -201,8 +201,15 @@ Look on my works, ye mighty and despair
 ```
 nothing beside remains
 ```
-  * the *works* could be the ones of distruction
+  * the *works* could be the ones of distruction carried out by the Emperor
     * allusion to devastation caused by **imperial ambitions**
 
+#### Ode to the West Wind (1819)
+* written in the form of an Elizabethan **sonnet** using Dante's *terza rima*
+* ode addressed to the wind, seen as a force of destruction and creation at the same time
+  * **cyclic vision** of life and death connected to the seasons
+    * dead leaves that work airborne seeds for new plants to be born
+    * dual nature of the wind similar to Blake's Lamb/Tyger (intrinsically bound opposites)
+* wind causing chaos and melting together (breaking limits between) sky, sea and land
 
 
