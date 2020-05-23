@@ -111,10 +111,12 @@
 * animal representing the innocence of childhood but also Jesus Christ
 ```For he calls himself a lamb,
    He is meek and he is mild,
-   **He became a little child**```
+   **He became a little child**
+```
 * connection between God, the lamb and the poet
 ```I a child and thou a lamb
-   We are called by his name```
+   We are called by his name
+```
 
 #### Songs of Experience (1794)
 * shift to the second stage of human life: adult experience
@@ -132,6 +134,8 @@
 ```
 * the violence of the tiger (and the revolution) seen as the destructive impulses of child
   * connection with The Lamb (Blake pictures the tiger with the face of a lamb)
+
+
 
 
 
