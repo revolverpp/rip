@@ -195,11 +195,11 @@
     * allusion to the body of the empire (the land and the people) that are missing as well
     * opposition of the present and past time and the **almighty destiny**
 ```
-    Look on my works, ye mighty and despair
+Look on my works, ye mighty and despair
 ```
   * the works of the emperor are missing, because **time annihilates everything**
 ```
-	nothing beside remains
+nothing beside remains
 ```
   * the *works* could be the ones of distruction
     * allusion to devastation caused by **imperial ambitions**
