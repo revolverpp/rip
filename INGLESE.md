@@ -137,6 +137,30 @@
 * the violence of the tiger (and the revolution) seen as the destructive impulses of child
   * connection with The Lamb (Blake pictures the tiger with the face of a lamb)
 
+### William Wordsworth (1770-1850)
+* supporter of the French Revolution at first
+* met Coleridge in 1795, by this time he had become disillusioned with the Revolution because of the terror
+* worked with Coleridge on *Lyrical Ballads*
+  * his object was to give the charm of **novelty to things of every day** (he draws inspiration from everyday life)
+    * the poet has the power of imagination and can help ordinary people express their inner selves
+    * the best subject is **humble rustic life**
+  * Coleridge's objective was more "romantic", aimed to provoke a *suspension of disbelief*
+* focus on **nature** and its effect on the human mind
+  * nature as the expression ofthe ideal in the real
+
+#### I Wandered Lonely as a Cloud (1815)
+* inspired by a walk with his sister Dorothy and the sight of a field of daffodils
+* man as a cloud: removed from the ground and floating free
+* inversion of perception: field as a *host* of flowers, like an **infinite** sky full of stars
+* experience lived unconsciously and then recalled from **memory**
+
+#### Sonnet Composed upon Westminster Bridge (1802)
+* set in an urban environment but without the urban aspects to it
+  * no effects of the Industrial Revolution (*smokeless air*)
+  * opposite to Blake's *London*
+  * fusion **man + nature** which can only occur in **solitude**
+* set at dawn, when the city is quiet
+* nostalgia for the **idyllic natural landscape** that is disappearing 
 
 
 
