@@ -92,8 +92,17 @@
   * Gray tries to reconcile with nature, Foscolo tries to overtake it (man are capable of shaping future generations)
 
 ### William Blake (1757-1827)
-#### lol
 * born in London, educated at home, became an engraver, got into poetry, never succeeded (in life), died
+
+#### Songs of Innocence (1789)
+* engraved by Blake on copper plates with pictures (**illuminated printing**)
+* focused on infancy
+  * child-like language
+  * childhood as a state of the soul
+
+#### Songs of Experience (1794)
+* shift to the second stage of human life: adult experience
+  * 
 
 
 
