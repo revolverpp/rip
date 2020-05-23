@@ -1,4 +1,4 @@
-# AN AGE OF REVOLUTIONS
+# An Age of Revolution
 
 ## 18th century (first half)
 * general stability and great extension of possessions
@@ -31,3 +31,38 @@
         * execution with the guillotine
       * radiacalisation of the French constitution
         * first **democratic** constitution proclaimed by a modern state
+
+  * many supporters in Britain
+    * Romantic intellectual circles (Blake, Coleridge, Wordsworth)
+    * Thomas Paine's *The Rights of Man*
+      * natural rights not based on birth or wealth
+
+  * post-revolutionary France
+    * general Napoleon Bonaparte proclaimed the **Emperor of France**
+    * conquest of Europe
+      * defeats against Britain
+        * battle of Trafalgar
+        * **battle of Waterloo**
+    * reshaping of Europe done by the winners (England, Austria, Prussia, Russia)
+      * **Congress of Vienna** (1814)
+
+  * post-revolutionary England (Reign of George III)
+    * Pitt the Younger prime minister
+    * ideas of the economist Adam Smith
+      * free trade in foreign commerce
+      * low import duties from France
+    
+    * king's mental illness
+      * **Regency** (rule of his son George IV)
+
+  * radicalism in Britain
+    * protest movements for social problems and the need for electoral reform
+    * unemployment caused by machines
+       * **Luddite Riots** (destruction of factory machines, 1811)
+    * need for parliamentary reform
+      * **Peterloo massacre** (St. Peter's Fields in Manchester + Waterloo)
+        * 11 people killed
+    * First Reform Act
+      * more power to middle classes
+    * rebellions in the colonies (1833)
+      * abolition of **slavery**
