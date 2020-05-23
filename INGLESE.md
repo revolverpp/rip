@@ -13,7 +13,7 @@
 * the (first) **Industial Revolution**
   * Britain from agricultural (production in people's homes) to industrial country
   * introduction of powered machinery
-   * steam engine
-   * textile and iron industries
+    * steam engine
+    * textile and iron industries
   * people uprooted from their way of living
-   * moved from the countryside to the city
+    * moved from the countryside to the city
