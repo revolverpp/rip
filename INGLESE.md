@@ -93,6 +93,13 @@
 
 ### William Blake (1757-1827)
 * born in London, educated at home, became an engraver, got into poetry, never succeeded (in life), died
+* dissatisfied with society which **lacks imagination**
+* the poet has the power of uncorrupted feeling &#8594; his works are detached from his age
+
+##### Blake's dual vision of life
+* infancy and adult life are **complementary opposites**
+  * they **coexist** in the human being
+* the opposites of life can be represented using twin **symbols**, representing different positions towards existance
 
 #### Songs of Innocence (1789)
 * engraved by Blake on copper plates with pictures (**illuminated printing**)
@@ -100,11 +107,31 @@
   * child-like language
   * childhood as a state of the soul
 
+##### The Lamb
+* animal representing the innocence of childhood but also Jesus Christ
+```For he calls himself a lamb,
+   He is meek and he is mild,
+   **He became a little child**```
+* connection between God, the lamb and the poet
+```I a child and thou a lamb
+   We are called by his name```
+
 #### Songs of Experience (1794)
 * shift to the second stage of human life: adult experience
-  * 
+  * world of selfish people **incapable of spontaneity**
 
-
+##### The Tyger
+* paradox of the tiger resembling that of the revolution
+  * *fearful symmetry*: beauty and terror deeply connected
+  * the tiger is forged by the forces of good and evil together
+    * the **French Revolution** is similar: good values that brought violence and terror with them
+* the tiger as a product of the **Industrial Revolution**
+```
+	What the hammer? What the chain? 
+	In what furnace was thy brain?
+```
+* the violence of the tiger (and the revolution) seen as the destructive impulses of child
+  * connection with The Lamb (Blake pictures the tiger with the face of a lamb)
 
 
 
