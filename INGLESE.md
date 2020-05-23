@@ -17,3 +17,17 @@
     * textile and iron industries
   * people uprooted from their way of living
     * moved from the countryside to the city
+  * wealth shifted from landowners to factory owners
+  * extremely **bad working conditions**
+    * women underpaid
+    * children exploited (low cost)
+
+## 1789
+* the **French Revolution**
+  * attempt to eliminate aristocracy in favour of middle classes
+  * power race between different groups
+    * *Jacobins* led by Robespierre
+      * idea of 'justice for all'
+        * execution with the guillotine
+      * radiacalisation of the French constitution
+        * first **democratic** constitution proclaimed by a modern state
