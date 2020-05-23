@@ -92,6 +92,7 @@
   * Gray tries to reconcile with nature, Foscolo tries to overtake it (man are capable of shaping future generations)
 
 ### William Blake (1757-1827)
+#### lol
 * born in London, educated at home, became an engraver, got into poetry, never succeeded (in life), died
 
 
