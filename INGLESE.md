@@ -66,3 +66,38 @@
       * more power to middle classes
     * rebellions in the colonies (1833)
       * abolition of **slavery**
+
+
+# Romantic poetry
+
+* poetry main way of expression (no more novel)
+  * reaction to the Enlightenment
+  * reaction to revolutions
+    * **individual expression** through **imagination** (over rational thinking)
+    * openness towards nature
+    * predilection for children's vision of world (more pure)
+    * poetry as a way of escaping social order
+      * vision of fantastic and dream-like places
+  * recurring **tension**
+    * youth *vs* age, country *vs* city, man *vs* nature
+
+## Pre-Romantic poets
+### Thomas Gray
+* Romantic tone
+* preoccupation with death
+* love for ruins, graveyards and solitary places
+* influenced Ugo Foscolo's *Dei Sepolcri*
+  * Foscolo rejects the idea that graves make all men equal
+    * graves = memories of great men and monument's to man's power of extending his short living existance
+  * Gray tries to reconcile with nature, Foscolo tries to overtake it (man are capable of shaping future generations)
+
+### William Blake (1757-1827)
+* born in London, educated at home, became an engraver, got into poetry, never succeeded (in life), died
+
+
+
+
+
+
+
+
