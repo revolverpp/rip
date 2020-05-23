@@ -112,7 +112,7 @@
 ```
    For he calls himself a lamb,
    He is meek and he is mild,
-   **He became a little child**
+   He became a little child
 ```
 * connection between God, the lamb and the poet
 ```
