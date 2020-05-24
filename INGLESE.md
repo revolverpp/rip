@@ -136,6 +136,23 @@ In what furnace was thy brain?
 * the violence of the tiger (and the revolution) seen as the destructive impulses of child
   * connection with The Lamb (Blake pictures the tiger with the face of a lamb)
 
+##### The Chimney Sweeper (1794)
+* adult's perspective in meeting a chimney sweeper child in the snow
+> Crying “weep! ‘weep!” in notes of woe!
+* the child is too little to say "sweep" correctly, but also *to weep* = *to cry*
+* the child's parents are *gone up to the Church to pray*, they're probably dead
+* the child's misery is the effect of his initial happiness and freedom
+> Because I was happy upon the heath [...]  
+They clothed me in the clothes of death
+* the childish impulses are preserved...
+> And because I am happy and dance and sing,  
+They think they have done me no injury
+* ...but he is aware of his explotiation, of which he accuses his parents, the church and the state...
+> And are gone to praise God and his Priest and King
+* ...which benefit from it (or cover and justify it through religious belief)
+> Who make up a heaven of our misery.
+
+
 ### William Wordsworth (1770-1850)
 * supporter of the French Revolution at first
 * met Coleridge in 1795, by this time he had become disillusioned with the Revolution because of the terror
