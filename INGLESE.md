@@ -136,7 +136,7 @@ In what furnace was thy brain?
 * the violence of the tiger (and the revolution) seen as the destructive impulses of child
   * connection with The Lamb (Blake pictures the tiger with the face of a lamb)
 
-##### The Chimney Sweeper (1794)
+##### The Chimney Sweeper
 * adult's perspective in meeting a chimney sweeper child in the snow
 > Crying “weep! ‘weep!” in notes of woe!
 * the child is too little to say "sweep" correctly, but also *to weep* = *to cry*
