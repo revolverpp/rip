@@ -39,7 +39,6 @@
     * Romantic intellectual circles (Blake, Coleridge, Wordsworth)
     * Thomas Paine's *The Rights of Man*
       * natural rights not based on birth or wealth
-
   * post-revolutionary France
     * general Napoleon Bonaparte proclaimed the **Emperor of France**
     * conquest of Europe
@@ -48,7 +47,6 @@
         * **battle of Waterloo**
     * reshaping of Europe done by the winners (England, Austria, Prussia, Russia)
       * **Congress of Vienna** (1814)
-
   * post-revolutionary England (Reign of George III)
     * Pitt the Younger prime minister
     * ideas of the economist Adam Smith
