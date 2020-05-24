@@ -109,17 +109,12 @@
 
 ##### The Lamb
 * animal representing the innocence of childhood but also Jesus Christ
-```
-   For he calls himself a lamb,
-   He is meek and he is mild,
-   He became a little child
-```
+> For he calls himself a lamb,  
+He is meek and he is mild,  
+He became a little child
 * connection between God, the lamb and the poet
-```
-   I a child and thou a lamb
-   We are called by his name
-```
-
+> I a child and thou a lamb  
+We are called by his name  
 #### Songs of Experience (1794)
 * shift to the second stage of human life: adult experience
   * world of selfish people **incapable of spontaneity**
@@ -130,10 +125,8 @@
   * the tiger is forged by the forces of good and evil together
     * the **French Revolution** is similar: good values that brought violence and terror with them
 * the tiger as a product of the **Industrial Revolution**
-```
-	What the hammer? What the chain? 
-	In what furnace was thy brain?
-```
+> What the hammer? What the chain?  
+In what furnace was thy brain?
 * the violence of the tiger (and the revolution) seen as the destructive impulses of child
   * connection with The Lamb (Blake pictures the tiger with the face of a lamb)
 
