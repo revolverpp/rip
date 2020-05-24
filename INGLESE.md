@@ -50,7 +50,7 @@
         * **battle of Waterloo**
     * reshaping of Europe done by the winners (England, Austria, Prussia, Russia)
       * **Congress of Vienna** (1814)
-  
+
   * post-revolutionary England (Reign of George III)
     * Pitt the Younger prime minister
     * ideas of the economist Adam Smith
