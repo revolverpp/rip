@@ -1,15 +1,18 @@
 # An Age of Revolution
 
 ## 18th century (first half)
+
 * general stability and great extension of possessions
 
 ## 1775
+
 * american war of independence
 * declaration of independence
   * written by thomas jefferson in 1776
   * american citizens have the right to have "life, liberty and the **pursuit of happiness**"
 
 ## 1760
+
 * the (first) **Industial Revolution**
   * Britain from agricultural (production in people's homes) to industrial country
   * introduction of powered machinery
@@ -23,8 +26,10 @@
     * children exploited (low cost)
 
 ## 1789
+
 * the **French Revolution**
   * attempt to eliminate aristocracy in favour of middle classes
+
   * power race between different groups
     * *Jacobins* led by Robespierre
       * idea of 'justice for all'
@@ -45,20 +50,19 @@
         * **battle of Waterloo**
     * reshaping of Europe done by the winners (England, Austria, Prussia, Russia)
       * **Congress of Vienna** (1814)
-
+  
   * post-revolutionary England (Reign of George III)
     * Pitt the Younger prime minister
     * ideas of the economist Adam Smith
       * free trade in foreign commerce
       * low import duties from France
-    
     * king's mental illness
       * **Regency** (rule of his son George IV)
 
   * radicalism in Britain
     * protest movements for social problems and the need for electoral reform
     * unemployment caused by machines
-       * **Luddite Riots** (destruction of factory machines, 1811)
+      * **Luddite Riots** (destruction of factory machines, 1811)
     * need for parliamentary reform
       * **Peterloo massacre** (St. Peter's Fields in Manchester + Waterloo)
         * 11 people killed
@@ -66,7 +70,6 @@
       * more power to middle classes
     * rebellions in the colonies (1833)
       * abolition of **slavery**
-
 
 # Romantic poetry
 
@@ -82,7 +85,9 @@
     * youth *vs* age, country *vs* city, man *vs* nature
 
 ## Pre-Romantic poets
+
 ### Thomas Gray
+
 * Romantic tone
 * preoccupation with death
 * love for ruins, graveyards and solitary places
@@ -92,38 +97,44 @@
   * Gray tries to reconcile with nature, Foscolo tries to overtake it (man are capable of shaping future generations)
 
 ### William Blake (1757-1827)
+
 * born in London, educated at home, became an engraver, got into poetry, never succeeded (in life), died
 * dissatisfied with society which **lacks imagination**
 * the poet has the power of uncorrupted feeling &#8594; his works are detached from his age
 
 ##### Blake's dual vision of life
+
 * infancy and adult life are **complementary opposites**
   * they **coexist** in the human being
 * the opposites of life can be represented using twin **symbols**, representing different positions towards existance
 
 #### Songs of Innocence (1789)
+
 * engraved by Blake on copper plates with pictures (**illuminated printing**)
 * focused on infancy
   * child-like language
   * childhood as a state of the soul
 
 ##### The Lamb
+
 * animal representing the innocence of childhood but also Jesus Christ
 
 > For he calls himself a lamb,  
-He is meek and he is mild,  
-He became a little child
+> He is meek and he is mild,  
+> He became a little child
 
 * connection between God, the lamb and the poet
 
 > I a child and thou a lamb  
-We are called by his name  
+> We are called by his name  
 
 #### Songs of Experience (1794)
+
 * shift to the second stage of human life: adult experience
   * world of selfish people **incapable of spontaneity**
 
 ##### The Tyger
+
 * paradox of the tiger resembling that of the revolution
   * *fearful symmetry*: beauty and terror deeply connected
   * the tiger is forged by the forces of good and evil together
@@ -131,28 +142,35 @@ We are called by his name
 * the tiger as a product of the **Industrial Revolution**
 
 > What the hammer? What the chain?  
-In what furnace was thy brain?
+> In what furnace was thy brain?
 
 * the violence of the tiger (and the revolution) seen as the destructive impulses of child
   * connection with The Lamb (Blake pictures the tiger with the face of a lamb)
 
 ##### The Chimney Sweeper
+
 * adult's perspective in meeting a chimney sweeper child in the snow
-> Crying “weep! ‘weep!” in notes of woe!
+  
+  > Crying “weep! ‘weep!” in notes of woe!
 * the child is too little to say "sweep" correctly, but also *to weep* = *to cry*
 * the child's parents are *gone up to the Church to pray*, they're probably dead
 * the child's misery is the effect of his initial happiness and freedom
-> Because I was happy upon the heath [...]  
-They clothed me in the clothes of death
+  
+  > Because I was happy upon the heath [...]  
+  > They clothed me in the clothes of death
 * the childish impulses are preserved...
-> And because I am happy and dance and sing,  
-They think they have done me no injury
+  
+  > And because I am happy and dance and sing,  
+  > They think they have done me no injury
 * ...but he is aware of his explotiation, of which he accuses his parents, the church and the state...
-> And are gone to praise God and his Priest and King
+  
+  > And are gone to praise God and his Priest and King
 * ...which benefit from it (or disguise and justify it through religious belief)
-> Who make up a heaven of our misery.
+  
+  > Who make up a heaven of our misery.
 
 ##### London
+
 * description of the fast-growing city due to the Industrial Revolution
   * the city is **chartered**: controlled, tracked, surveilled
   * everyone is under control and has access to different parts of the city
@@ -160,14 +178,15 @@ They think they have done me no injury
     * the **poet** can instead *wander* freely through the streets
     * the **river** flows freely
 * the city's inhabitans are caught in **mental enslavement**
-> The mind-forged manacles I hear
+  
+  > The mind-forged manacles I hear
 * the city's society is corrupted and different **colors** are assigned to different corrupted institution
   * the church worries about exploitation (e.g. the chimney sweeper children, hence the color **black**), but does nothing to stop it
   * the soldiers are forced to fight and cover the walls of palaces in **red** blood
   * prostitutes "damn" with the plague of STDs the new-born babies and the **loveless marriages**, seen as "dead"
 
-
 ### William Wordsworth (1770-1850)
+
 * supporter of the French Revolution at first
 * met Coleridge in 1795, by this time he had become disillusioned with the Revolution because of the terror
 * worked with Coleridge on *Lyrical Ballads*
@@ -179,12 +198,14 @@ They think they have done me no injury
   * nature as the expression of the ideal in the real
 
 #### I Wandered Lonely as a Cloud (1815)
+
 * inspired by a walk with his sister Dorothy and the sight of a field of daffodils
 * man as a cloud: removed from the ground and floating free
 * inversion of perception: field as a *host* of flowers, like an **infinite** sky full of stars
 * experience lived unconsciously and then recalled from **memory**
 
 #### Sonnet Composed upon Westminster Bridge (1802)
+
 * set in an urban environment but without the urban aspects to it
   * no effects of the Industrial Revolution (*smokeless air*)
   * opposite to Blake's *London*
@@ -193,10 +214,12 @@ They think they have done me no injury
 * nostalgia for the **idyllic natural landscape** that is disappearing
 
 ### Samuel Taylor Coleridge (1772-1834)
+
 * worked with Wordsworth on the *Lyrical Ballads*, for which he writes *The Rime of the Ancient Mariner*
 * like Wordsworth, pro-revolution at first, then conservative
 
 #### The Rime of the Ancient Mariner
+
 * story of a mariner who killed an albatross for no apparent reason and is then punished for that
 * written in the form of a **medieval ballad**, meant to be read by anyone
 * creation of a magical world where realistic and supernatural coexist
@@ -212,6 +235,7 @@ They think they have done me no injury
     * conflict between the real world (where the mariner narrates the story) and the imaginated one
 
 ### Percy Bysshe Shelley (1792-1822)
+
 * highly educated
 * radical thinker, expelled from University for circulating pamphlets on the necessity of atheism
 * peculiar **highly-toned style**
@@ -220,17 +244,21 @@ They think they have done me no injury
   * **impersonal** poems, often set in **desolate places**
 
 #### Ozymandias (ca. 1817)
+
 * travel to the *antique land* (Egypt) and sight of Ramses II's statue
   * the faraon's body is missing
     * allusion to the body of the empire (the land and the people) that are missing as well
     * opposition of the present and past time and the **almighty destiny**
-> Look on my works, ye mighty and despair
+      
+      > Look on my works, ye mighty and despair
   * the works of the emperor are missing, because **time annihilates everything**
-> nothing beside remains
+    
+    > nothing beside remains
   * the *works* could be the ones of distruction carried out by the Emperor
     * allusion to devastation caused by **imperial ambitions**
 
 #### Ode to the West Wind (1819)
+
 * written in the form of an Elizabethan **sonnet** using Dante's *terza rima*
 * ode addressed to the wind, seen as a force of destruction and creation at the same time
   * **cyclic vision** of life and death connected to the seasons
@@ -238,10 +266,4 @@ They think they have done me no injury
     * dual nature of the wind similar to Blake's Lamb/Tyger (intrinsically bound opposites)
 * wind causing chaos and melting together (breaking limits between) sky, sea and land
 
-
-
-
 # Victorian Age (1837-1901)
-
-
-
