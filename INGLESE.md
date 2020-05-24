@@ -29,19 +29,16 @@
 
 * the **French Revolution**
   * attempt to eliminate aristocracy in favour of middle classes
-
   * power race between different groups
     * *Jacobins* led by Robespierre
       * idea of 'justice for all'
         * execution with the guillotine
       * radiacalisation of the French constitution
         * first **democratic** constitution proclaimed by a modern state
-
   * many supporters in Britain
     * Romantic intellectual circles (Blake, Coleridge, Wordsworth)
     * Thomas Paine's *The Rights of Man*
       * natural rights not based on birth or wealth
-
   * post-revolutionary France
     * general Napoleon Bonaparte proclaimed the **Emperor of France**
     * conquest of Europe
@@ -50,7 +47,6 @@
         * **battle of Waterloo**
     * reshaping of Europe done by the winners (England, Austria, Prussia, Russia)
       * **Congress of Vienna** (1814)
-
   * post-revolutionary England (Reign of George III)
     * Pitt the Younger prime minister
     * ideas of the economist Adam Smith
@@ -58,7 +54,6 @@
       * low import duties from France
     * king's mental illness
       * **Regency** (rule of his son George IV)
-
   * radicalism in Britain
     * protest movements for social problems and the need for electoral reform
     * unemployment caused by machines
