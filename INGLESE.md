@@ -149,8 +149,22 @@ They clothed me in the clothes of death
 They think they have done me no injury
 * ...but he is aware of his explotiation, of which he accuses his parents, the church and the state...
 > And are gone to praise God and his Priest and King
-* ...which benefit from it (or cover and justify it through religious belief)
+* ...which benefit from it (or disguise and justify it through religious belief)
 > Who make up a heaven of our misery.
+
+##### London
+* description of the fast-growing city due to the Industrial Revolution
+  * the city is **chartered**: controlled, tracked, surveilled
+  * everyone is under control and has access to different parts of the city
+    * the wealthy and rich have a **charter**, a "pass" for reserved areas
+    * the **poet** can instead *wander* freely through the streets
+    * the **river** flows freely
+* the city's inhabitans are caught in **mental enslavement**
+> The mind-forged manacles I hear
+* the city's society is corrupted and different **colors** are assigned to different corrupted institution
+  * the church worries about exploitation (e.g. the chimney sweeper children, hence the color **black**), but does nothing to stop it
+  * the soldiers are forced to fight and cover the walls of palaces in **red** blood
+  * prostitutes "damn" with the plague of STDs the new-born babies and the **loveless marriages**, seen as "dead"
 
 
 ### William Wordsworth (1770-1850)
