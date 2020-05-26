@@ -1,5 +1,6 @@
 # TODO
 
+* dire sì o no al tedesco a bolzano
 * chiamare Gianni
 * schematizzare Nietzsche
 * chiamare sushi
