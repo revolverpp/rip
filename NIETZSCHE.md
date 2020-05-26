@@ -82,5 +82,76 @@ Processo storico articolato in sei tappe:
 * filosofia di Zarathustra: mondo vero e mondo apparente eliminati, **annullamento** della dottrina **metafisico-dualistica** del mondo
 
 
-# Periodo di Zarathustra
+## Periodo di Zarathustra
 
+Poema in prosa con tono profetico, ricco di parabole.
+
+**Filosofia del meriggio** che segue quella del mattino: la visione metafisico-dualistica è superata e Zarathustra profetizza l'avvento del **superuomo**, la naturale conseguenza della morte di Dio (oltre all'*ultimo uomo*, suo opposto)
+
+### Superuomo (Oltreuomo, Übermensch)
+
+Concetto filosofico: il nuovo tipo di uomo che fa proprio il pensiero di Nietzsche.
+* accetta l'eterno ritorno
+* supera la morale e il cristianesimo
+* si pone come volontà di potenza
+* supera il nichilismo
+
+Esula ogni tipo antropologico già dato (**oltre**-uomo) ed è **capace di creare nuovi valori**, interpretando in modo nuovo la realtà.
+È unicamente corpo, senza "anima" che sarebbe soggetto di un'esistenza ultraterrena.
+
+> Corpo io sono in tutto e per tutto, e anima non è altro che una parola per indicare qualcosa del corpo.
+
+Concezione "terrestre" del superuomo, spirito dionisiaco che **accetta la vita**.
+
+Genesi del superuomo attraverso tre **metamorfosi**:
+* cammello, ovvero l'uomo che porta i pesi della tradizione
+* leone, ovvero l'uomo che se ne libera ma non è ancora interamente libero di agire
+* fanciullo, creatura dionisiaca che dice "sì" alla vita e che si reinventa al di là del bene e del bene (oltre la morale)
+
+Carattere **elitario** del superuomo: liberazione dalle autorità umane e divine riservata a una parte dell'umanità, che ha bisogno della schiavitù delle masse in qualità di razza dominatrice (**anti-democratico** e **anti-egualitario**). Ciononostante, denuncia di tutti gli idoli politici del suo tempo, messaggio prettamente **filosofico**.
+
+### Eterno ritorno dell'uguale
+
+Ripetizione eterna di tutte le vicende del mondo, accettabile solo dal superuomo e pertanto "spartiacque" tra uomo e superuomo.
+Ripresa del tempo greco (circolare) e abbandono di quello cristiano (lineare).
+
+Enunciazione di Zarathustra come sentiero circolare tra il passato e il futuro, attraverso la **parabola del pastore** che stacca la testa (prende una decisione coraggiosa) al **serpente** (simbolo del circolo) e rinasce come uomo **ridente** e superiore.
+
+Possibili interpretazioni:
+* certezza cosmologica, quasi scientifica (energia e materie in quantità finita, tempo infinito &#8594 combinazioni devono ripetersi)
+* ipotesi sull'essere, che diventerebbe schema etico o imperativo categorico che impone di amare la vita come se tutto dovesse ritornare
+* enunciazione metaforica di un modo di essere dell'essere, accessibile all'uomo solo accettando la vita
+
+Scegliere o **decidere** l'eterno ritorno significa accettare la coincidenza tra **essere e senso** (significato), trovare un senso **nell'essere** e non fuori da esso; non come fa l'individuo risentito dell'Occidente ma come fa il superuomo.
+
+## L'ultimo Nietzsche
+
+Polemica contro morale e cristianesimo nel tentativo di distruggere le certezze residue e favorire l'avvento del superuomo.
+
+### Genealogia della morale
+
+Mettere in discussione la **morale**, interpretarla come problema: nessuno se l'è mai posto, è sempre stata accettata come tale, autoimposta.
+
+Analisi della morale per individuarvi matrici umane.
+
+> dove *voi* vedete cose ideali, *io* vedo cose umane, ahi troppo umane
+
+Valori della morale come proiezione di **tendenze umane**, imposti dalle autorità sociali o dal senso comune (*l'istinto del gregge nel singolo*) e spacciati per trascendenti.
+
+In un primo momento, la morale (per quanto autoimposta) era improntata a valori positivi (**morale dei signori**), tipici dei guerrieri, poi storicamente i sacerdoti mossi dal **risentimento** hanno creato la loro tavola di valori incentrati sul sacrificio di sé (**morale degli schiavi**).
+Con il **cristianesimo** si è diffusa, sfruttando la debolezza dell'uomo verso la vita attraverso la nozione di **peccato**.
+
+La soluzione è la **trasvalutazione dei valori**: non il semplice ritorno ai valori positivi, ma interpretazione dei valori non come prestabiliti ma come libero sfogo della **volontà di potenza** dell'uomo. Il filosofo ha il compito di "guidare" la trasvalutazione e creare la nuova società, per questo il suo ruolo è quello di dominatore e legislatore, che sfrutta il lavoro dei finti filosofi operai per stabilire una legislazione, dando all'uomo una meta.
+
+### Volontà di potenza
+
+È l'**intima essenza** dell'essere, sua caratteristica, così come la **vita stessa**.
+Perfettamente incarnata dal superuomo, è spinta all'auto-affermazione, al superamento di se stessi oltre ogni piano prefissato.
+
+Rivalutazione dell'**arte** come forza creatrice, forma suprema della realtà. L'artista è il primo esempio visibile di oltre-uomo.
+
+Si manifesta nella produzione di **nuovi valori**, quindi nella figura del superuomo che crea nuove interpretazioni del caos insensato del mondo e le fa proprie. Contribuisce all'accettazione dell'eterno ritorno da parte del superuomo poiché permette di cancellare il peso del passato, trasformando il *così fu* nel *così volli che fosse*
+
+> Ogni "così fu" è [...] una casualità orrida - finché la volontà che crea non dica anche: "ma così volli che fosse!". Finché la volontà che crea non dica anche: "ma così voglio! Così vorrò!"
+
+Il divenire, eternizzato dalla volontà di potenza del superuomo, si trasforma in essere.
