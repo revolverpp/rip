@@ -1,6 +1,7 @@
 # Friedrich Nietzsche (1844-1900)
 
 Filosofia della **critica** radicale verso le certezze del passato e della costruzione della nuova umanità dell'oltreuomo.
+
 Inizia a scrivere **saggi**, passa poi all'**aforisma**, forma breve di illuminazione istantanea. *Così parlò Zarathustra* segue lo schema in versetti dei vangeli; gli ultimi scritti sono più autobiografici e polemici.
 
 Filosofia **asistematica**, non volta a creare un sistema di valori prefissati e aperte a molte letture.
@@ -41,7 +42,9 @@ Il corretto approccio alla storia prevede l'**integrazione** delle tre possibili
 ### Umano, troppo umano (1878-1880)
 
 Dedicata a Voltaire.
+
 Rifiuto dei vecchi maestri Schopenhauer e Wagner, anch'essi ora sintomo di decadenza. Abbandono della metafisica dell'arte e privilegiamento della **prospettiva scientifica**.
+
 Nuova prospettiva "illuministica": non fiducia nella ragione e nel progresso ma **critica della cultura** attraverso la scienza.
 
 Proposta di un **nuovo metodo**, definito **critico** (il sospetto è la costante dell'indagine) e **storico-genealogico** (necessario analizzare i processi storici che hanno portato alle convinzioni, per poterle giustificare o annullare)
@@ -50,11 +53,11 @@ Fasi del nuovo metodo di studio di valori e nozioni **ritenuti eterni** e univer
 * analisi storico-concettuale: in realtà si addicono solo a determinati contesti storici
 * critica demistificante: in realtà dietro di essi si celano interessi umani
 
-Questo nuovo metodo è volto a svelare il carattere *umano, troppo umano* dei valori considerati sovrumani e si concretizza nella **filosofia del mattino**: vita come transitorietà priva di certezze, incarnata nella figura del **viandante** o **spirito libero**
+Questo nuovo metodo è volto a svelare il carattere *umano, troppo umano* dei valori considerati sovrumani e si concretizza nella **filosofia del mattino**: vita come transitorietà priva di certezze, incarnata nella figura del **viandante** o **spirito libero**.
 
 ### Gaia scienza (1882) [morte di Dio]
 
-Critica di uno dei grandi errori dell'umanità: la **metafisica**
+Critica di uno dei grandi errori dell'umanità: la **metafisica**.
 
 Concezione di Dio come:
 * prospettiva oltremondana che pone il senso dell'essere **al di fuori dell'essere**
@@ -67,6 +70,7 @@ Origine dell'idea di Dio è dunque la **paura** dell'uomo di fronte all'essere.
 Confutate le religioni, annuncio della **morte di Dio** nella *Gaia scienza* da parte di un uomo folle in un racconto "drammatizzato" riconducibile al mito della caverna di Platone.
 
 Morte di Dio come presupposto all'affermazione dell'**oltreuomo**, che ha il coraggio di prendere atto del crollo degli assoluti e vivere in un mondo "sdivinizzato" o "ateo".
+
 Non solo Dio è morto, ma anche **ogni suo ipotetico surrogato**, ovvero enti che hanno sostituito Dio nell'ateismo dell'Ottocento (lo **Stato**, l'umanità, la scienza, il socialismo...)
 
 ### Crepuscolo degli idoli
@@ -97,6 +101,7 @@ Concetto filosofico: il nuovo tipo di uomo che fa proprio il pensiero di Nietzsc
 * supera il nichilismo
 
 Esula ogni tipo antropologico già dato (**oltre**-uomo) ed è **capace di creare nuovi valori**, interpretando in modo nuovo la realtà.
+
 È unicamente corpo, senza "anima" che sarebbe soggetto di un'esistenza ultraterrena.
 
 > Corpo io sono in tutto e per tutto, e anima non è altro che una parola per indicare qualcosa del corpo.
@@ -113,6 +118,7 @@ Carattere **elitario** del superuomo: liberazione dalle autorità umane e divine
 ### Eterno ritorno dell'uguale
 
 Ripetizione eterna di tutte le vicende del mondo, accettabile solo dal superuomo e pertanto "spartiacque" tra uomo e superuomo.
+
 Ripresa del tempo greco (circolare) e abbandono di quello cristiano (lineare).
 
 Enunciazione di Zarathustra come sentiero circolare tra il passato e il futuro, attraverso la **parabola del pastore** che stacca la testa (prende una decisione coraggiosa) al **serpente** (simbolo del circolo) e rinasce come uomo **ridente** e superiore.
@@ -146,6 +152,7 @@ La soluzione è la **trasvalutazione dei valori**: non il semplice ritorno ai va
 ### Volontà di potenza
 
 È l'**intima essenza** dell'essere, sua caratteristica, così come la **vita stessa**.
+
 Perfettamente incarnata dal superuomo, è spinta all'auto-affermazione, al superamento di se stessi oltre ogni piano prefissato.
 
 Rivalutazione dell'**arte** come forza creatrice, forma suprema della realtà. L'artista è il primo esempio visibile di oltre-uomo.
