@@ -150,7 +150,7 @@ Perfettamente incarnata dal superuomo, è spinta all'auto-affermazione, al super
 
 Rivalutazione dell'**arte** come forza creatrice, forma suprema della realtà. L'artista è il primo esempio visibile di oltre-uomo.
 
-Si manifesta nella produzione di **nuovi valori**, quindi nella figura del superuomo che crea nuove interpretazioni del caos insensato del mondo e le fa proprie. Contribuisce all'accettazione dell'eterno ritorno da parte del superuomo poiché permette di cancellare il peso del passato, trasformando il *così fu* nel *così volli che fosse*
+Si manifesta nella produzione di **nuovi valori**, quindi nella figura del superuomo che crea nuove interpretazioni del caos insensato del mondo e le fa proprie. Contribuisce all'accettazione dell'eterno ritorno da parte del superuomo poiché permette di cancellare il peso del passato, trasformando il *così fu* nel *così volli che fosse*.
 
 > Ogni "così fu" è [...] una casualità orrida - finché la volontà che crea non dica anche: "ma così volli che fosse!". Finché la volontà che crea non dica anche: "ma così voglio! Così vorrò!"
 
