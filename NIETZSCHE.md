@@ -71,4 +71,16 @@ Non solo Dio è morto, ma anche **ogni suo ipotetico surrogato**, ovvero enti ch
 
 ### Crepuscolo degli idoli
 
-Affermazione del superamento del platonismo grazie alla morte di Dio, 
+Affermazione del superamento del platonismo grazie alla morte di Dio (per Nietzsche, il platonismo rappresenta la metafisica occidentale perché Platone contrappose il **mondo apparente** in cui viviamo al **mondo vero**, punto cardine di metafisiche e religioni e definizione di Dio).
+
+Processo storico articolato in sei tappe:
+* Platone e greci: mondo vero accessibile solo ai saggi
+* cristianesimo: mondo vero accessibile ai virtuosi
+* kantismo: mondo vero indimostrabile, ridotto ad un **postulato morale**
+* positivismo: mondo vero inconoscibile, risveglio dell'anti-metafisica
+* filosofia del mattino: mondo vero confutato
+* filosofia di Zarathustra: mondo vero e mondo apparente eliminati, **annullamento** della dottrina **metafisico-dualistica** del mondo
+
+
+# Periodo di Zarathustra
+
