@@ -38,4 +38,22 @@ Il corretto approccio alla storia prevede l'**integrazione** delle tre possibili
 
 ## Periodo illuministico
 
+### Umano, troppo umano (1878-1880)
+
+Dedicata a Voltaire.
+Rifiuto dei vecchi maestri Schopenhauer e Wagner, anch'essi ora sintomo di decadenza. Abbandono della metafisica dell'arte e privilegiamento della **prospettiva scientifica**.
+Nuova prospettiva "illuministica": non fiducia nella ragione e nel progresso ma **critica della cultura** attraverso la scienza.
+
+Proposta di un **nuovo metodo**, definito **critico** (il sospetto è la costante dell'indagine) e **storico-genealogico** (necessario analizzare i processi storici che hanno portato alle convinzioni, per poterle giustificare o annullare)
+
+Fasi del nuovo metodo di studio di valori e nozioni **ritenuti eterni** e universali:
+* analisi storico-concettuale: in realtà si addicono solo a determinati contesti storici
+* critica demistificante: in realtà dietro di essi si celano interessi umani
+
+Questo nuovo metodo è volto a svelare il carattere *umano, troppo umano* dei valori considerati sovrumani e si concretizza nella **filosofia del mattino**: vita come transitorietà priva di certezze, incarnata nella figura del **viandante** o **spirito libero**
+
+### Gaia scienza
+
+Critica di uno dei grandi errori dell'umanità: la **metafisica**
+
 
