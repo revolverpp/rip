@@ -52,8 +52,23 @@ Fasi del nuovo metodo di studio di valori e nozioni **ritenuti eterni** e univer
 
 Questo nuovo metodo è volto a svelare il carattere *umano, troppo umano* dei valori considerati sovrumani e si concretizza nella **filosofia del mattino**: vita come transitorietà priva di certezze, incarnata nella figura del **viandante** o **spirito libero**
 
-### Gaia scienza
+### Gaia scienza (1882) [morte di Dio]
 
 Critica di uno dei grandi errori dell'umanità: la **metafisica**
 
+Concezione di Dio come:
+* prospettiva oltremondana che pone il senso dell'essere **al di fuori dell'essere**
+* personificazione delle **certezze dell'umanità**, tutte le credenze (metafisiche e religiose) che danno un senso alla vita
 
+Religioni e metafisiche viste come **menzogne millenarie** che l'uomo ha creato per sopravvivere, perché la vita (come la filosofia) deve essere rassicurante. Ora, all'occhio disincantato del filosofo, non lo è più.
+
+Origine dell'idea di Dio è dunque la **paura** dell'uomo di fronte all'essere.
+
+Confutate le religioni, annuncio della **morte di Dio** nella *Gaia scienza* da parte di un uomo folle in un racconto "drammatizzato" riconducibile al mito della caverna di Platone.
+
+Morte di Dio come presupposto all'affermazione dell'**oltreuomo**, che ha il coraggio di prendere atto del crollo degli assoluti e vivere in un mondo "sdivinizzato" o "ateo".
+Non solo Dio è morto, ma anche **ogni suo ipotetico surrogato**, ovvero enti che hanno sostituito Dio nell'ateismo dell'Ottocento (lo **Stato**, l'umanità, la scienza, il socialismo...)
+
+### Crepuscolo degli idoli
+
+Affermazione del superamento del platonismo grazie alla morte di Dio, 
