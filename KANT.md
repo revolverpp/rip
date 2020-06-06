@@ -72,5 +72,16 @@ Risolto attraverso l'**Io Penso**:
 
 ## Dialettica trascendentale
 
+Smascheramento dei ragionamenti fallaci della metafisica e delle sue tre idee, derivanti dalla tendenza della mente umana di procedere oltre i dati dell'esperienza, necessari per la conoscenza, e di unificare la totalità di ciò che esiste
+* **anima**, idea della totalità dei fenomeni interni
+* **mondo**, idea della totalità dei fenomeni esterni
+* **Dio**, totalità di tutte le totalità (anima + mondo)
 
+Errore della metafisica: trasformare queste esigenze mentali di unificazione in vere e proprie realtà.
+* psicologia razionale: attribuisce la sostanza all'Io Penso (anima)
+* cosmologia razionale: istituisce l'idea di mondo come totalità delle esperienze possibili, che non sussiste perché si può vivere un'esperienza alla volta
+  * quando si cerca di formulare un'affermazione sul mondo in quanto totalità, si cade in contraddizione (**antinomie**, affermazioni contrapposte di cui non si può determinare la validità)
+* teologia razionale: tenta di far concidere in Dio le idee di anima e mondo; confutazione delle prove dell'esistenza di Dio:
+  * **prova ontologica** (Anselmo d'Aosta): Dio è perfetto, la mancanza dell'esistenza sarebbe un'imperfezione; confutazione: l'esistenza non è un predicato, non si può *saltare* dal piano logico a quello ontologico
+  * **prova cosmologica** (terza via di Tommaso): 
 
