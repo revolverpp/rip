@@ -56,4 +56,21 @@ Affermazione della validità della matematica anche nella natura perché la prim
 
 ## Analitica trascendentale
 
+Studio dell'intelletto e delle sue forme a priori (**concetti** o **categorie**).
+
+I concetti puri (categorie) sono **funzioni unificatrici** e coincidono con i predicati primi, in cui rientrano tutti i predicati di tutti i giudizi possibili; simili a quelle aristoteliche, ma con valore esclusivamente gnoseologico, non ontologico. Formulando un giudizio si associa un soggetto a un particolare predicato, preso da una delle categorie.
+
+### Deduzione trascendentale
+
+Problema "più difficile" della Critica: legittimazione delle categorie e del loro utilizzo.
+
+Risolto attraverso l'**Io Penso**:
+1. il molteplice (il reale) viene unificato per mezzo dell'intelletto che opera per mezzo dell'Io Penso, la suprema unità fondatrice della conoscenza, che è presente nella mente di tutti gli uomini
+  * la conoscenza non è innata perché l'Io Penso deve unificare le categorie
+2. l'Io Penso agisce tramite i giudizi che sottintendono le categorie
+3. tutti gli oggetti pensati presuppongono le categorie
+
+## Dialettica trascendentale
+
+
 
