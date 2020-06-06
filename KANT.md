@@ -83,5 +83,13 @@ Errore della metafisica: trasformare queste esigenze mentali di unificazione in 
   * quando si cerca di formulare un'affermazione sul mondo in quanto totalità, si cade in contraddizione (**antinomie**, affermazioni contrapposte di cui non si può determinare la validità)
 * teologia razionale: tenta di far concidere in Dio le idee di anima e mondo; confutazione delle prove dell'esistenza di Dio:
   * **prova ontologica** (Anselmo d'Aosta): Dio è perfetto, la mancanza dell'esistenza sarebbe un'imperfezione; confutazione: l'esistenza non è un predicato, non si può *saltare* dal piano logico a quello ontologico
-  * **prova cosmologica** (terza via di Tommaso): 
+  * **prova cosmologica** (terza via di Tommaso): se esiste qualcosa di contingente (io), deve esistere qualcosa di necessario; confutazione:
+    * uso illegittimo della causalità per connettere fenomenico ed extra-fenomenico
+    * pretende di giustificare un'esistenza partendo da un'idea, come la prova ontologica
+  * **prova fisico-teologica**: ordine e bellezza della natura esistono grazie a un Dio mente ordinatrice, però:
+    * per non far derivare l'ordine della natura alle legge stesse della natura, Dio deve anche essere creatore della natura stessa, ma non può essere creatore perché si ricadrebbe nella prova cosmologica
+    * gli attributi di ordine e bellezza attribuiti alla natura sono riferibili esclusivamente alla nostra percezione (forme a priori); inoltre, identificando la realtà perfetta con un'ipotetica causa ordinatrice si ricade nella prova ontologica
+
+
+# Critica della ragion pratica
 
