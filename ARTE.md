@@ -19,6 +19,10 @@ Richiamo all'ordine e alla tradizione dell'arte classica dopo l'instabilità del
 
 ## De Chirico
 
+### Ettore e Andromaca
+
+Nessun'emozione, desolazione interiore.
+
 ### Le Muse inquietanti
 
 Silenzio, immobilità, prospettiva assente o approssimativa, uomo assente, segno nitido, tempo sospeso che rimanda a una realtà altra, **metafisica**, di cui si è coscienti solo se la si sa percepire.
@@ -26,3 +30,7 @@ Silenzio, immobilità, prospettiva assente o approssimativa, uomo assente, segno
 ### Mobili nella valle
 
 Immobilità, mobili che cadono che dicono *instabilità*. Spazio desolato che dice *solitudine*.
+
+### Piazze d'Italia
+
+Contrapposizione con l'idea comune della piazza affollata, in realtà luogo di solitudine e desolazione. Città sullo sfondo, lontana.
