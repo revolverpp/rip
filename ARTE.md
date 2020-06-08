@@ -34,3 +34,28 @@ Immobilità, mobili che cadono che dicono *instabilità*. Spazio desolato che di
 ### Piazze d'Italia
 
 Contrapposizione con l'idea comune della piazza affollata, in realtà luogo di solitudine e desolazione. Città sullo sfondo, lontana.
+
+# Surrealismo
+
+Arte dell'inconscio, accostamento di oggetti irrelati che creano un'immagine surreale.
+
+Libera espressione dell'inconscio, obiettivo di portare alla luce la realtà interiore e priva di coscienza che si cela nell'uomo e si manifesta con i **sogni**.
+
+Libertà individuale di espressione, che mette capo a Freud, ma anche libertà sociale che mette capo a Marx.
+
+Tecniche:
+* grattage, grattare il colore già presente sulla tela
+* frottage, matita o gessetto sulla tela, posta su una superficie con asperità
+* collage, ritagli di giornale, stampe, cataloghi, pubblicità, incollati insieme
+
+## Magritte
+
+### Il doppio segreto
+
+Due segreti:
+1. L'immagine è qualcosa di concreto, indipendentemente da ciò che rappresenta e dai nostri meccanismi di comprensione
+2. Il pensiero può trasformarla a suo piacimento, fino a trasfigurarla, ad attribuirle connotazioni "impossibili"
+
+### L'impero delle luci
+
+Giorno e notte insieme: paradosso e ossimoro, che generano sgomento e novità.
