@@ -61,3 +61,23 @@ Due segreti:
 ### L'impero delle luci
 
 Giorno e notte insieme: paradosso e ossimoro, che generano sgomento e novità.
+
+## Dalì
+
+Introduce il metodo **paranoico-critico**
+* momento paranoico: delusioni sistematiche, con o senza allucinazioni; confuse illusioni dell'inconscio, ispirazione artistica da cui non vuole guarire
+* momento critico: razionalizzazione del delirio sulla tela, che prende il sopravvento perché l'artista non è veramente malato
+
+### Costruzione molle
+
+Quadrilatero formato da elementi anatomici: braccia, un busto, un seno femminile, un volto agghiacciante. Al suolo, moltitudine caotica di oggetti: ossa, fave bollite, un armadio.
+,
+Allegoria della guerra: angoscia, paura, violenza. Tecnica pittorica realistica ma contenuto assurdo: mostri del genere non esistono ma la psiche umana può generarli, come può causare l'orrore della guerra.
+
+### Giraffa in fiamme
+
+Allegoria della guerra civile (giraffa in fiamme).
+
+In primo piano la donna stipo: corpo femminile a cassetti, allusione alla scoperta freudiana della psiche che nasconde cassetti segreti di cui si ignorava l'esistenza.
+
+
