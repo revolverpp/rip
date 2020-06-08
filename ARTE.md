@@ -13,3 +13,16 @@ Punti salienti del Futurismo:
 
 Pittura non più rappresentazione realistica della realtà, ma evento cui l'osservatore si rende partecipe.
 
+# Metafisica
+
+Richiamo all'ordine e alla tradizione dell'arte classica dopo l'instabilità della guerra.
+
+## De Chirico
+
+### Le Muse inquietanti
+
+Silenzio, immobilità, prospettiva assente o approssimativa, uomo assente, segno nitido, tempo sospeso che rimanda a una realtà altra, **metafisica**, di cui si è coscienti solo se la si sa percepire.
+
+### Mobili nella valle
+
+Immobilità, mobili che cadono che dicono *instabilità*. Spazio desolato che dice *solitudine*.
