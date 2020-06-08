@@ -52,6 +52,8 @@ Tecniche:
 
 ### Il doppio segreto
 
+Due facce, una in sezione che "svela" cosa c'è dietro la maschera che l'uomo indossa.
+
 Due segreti:
 1. L'immagine è qualcosa di concreto, indipendentemente da ciò che rappresenta e dai nostri meccanismi di comprensione
 2. Il pensiero può trasformarla a suo piacimento, fino a trasfigurarla, ad attribuirle connotazioni "impossibili"
