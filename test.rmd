@@ -1,0 +1,281 @@
+---
+title: "Elaborato di matematica e fisica"
+output:
+  pdf_document: default
+  word_document: default
+header-includes:
+- \usepackage{tikz}
+- \usepackage{nccmath}
+- \usepackage{amsmath}
+---
+
+Studiare la funzione
+
+\[ f(x) =
+    \begin{cases}
+        \sqrt{1-x} & \quad se \: x < 1 \\
+        \frac{1}{x}ln^2x & \quad se \: x \geq 1
+    \end{cases}
+\]
+
+## 1. Dominio, segno ed eventuali simmetrie
+
+### 1.1 Dominio
+
+\[
+\begin{aligned}
+  D_1: \: \{x \:\: | \:\: x < 1\} \: \cap \: \{x \:\: | \:\: 1 - x > 0\}  \\
+  \: :\{x \:\: | \:\: x < 1\} \: \cap \: \{x \:\: | \: - x > -1\}  \\
+  \: :\{x \:\: | \:\: x < 1\} \: \cap \: \{x \:\: | \: x < 1\}  \\[5pt]
+  D_1: \: x < 1 \qquad\qquad\qquad\qquad\qquad\quad\:
+\end{aligned} \\
+\]
+
+\[
+\begin{aligned}
+  D_2: \: \{x \:\: | \:\: x \geq 1\} \: \cap \: \{x \:\: | \:\: \begin{cases}
+        x > 0 \\
+        x \neq 0
+    \end{cases}\}  \\
+  \: :\{x \:\: | \:\: x \geq 1\} \: \cap \: \{x \:\: | \: x > 0\}  \\[5pt]
+  D_2: \: x \geq 1 \qquad\qquad\qquad\qquad\qquad\quad\:\:\:
+\end{aligned} \\
+\]
+
+Il dominio di $f(x)$, unione degli insiemi $D_1$ e $D_2$, corrisponde a $I\!\!R$.
+
+### 1.2 Segno
+
+Determinazione degli insiemi di positività $P_1$ e $P_2$.
+
+\[
+\begin{aligned}
+  P_1: \quad \sqrt{1 - x} > 0 \\
+  \forall \; x \in D_1
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+  P_2: \quad \frac{1}{x}ln^2x > 0 \\
+\end{aligned}
+\]
+per la legge di annullamento del prodotto:
+\[
+\begin{aligned}
+  & N_1 > 0 \quad \quad \frac{1}{x} > 0 \quad \quad \\
+    & \quad N_{N_1} > 0 \quad 1 > 0\\
+    & \quad D_{N_1} > 0 \quad x > 0\\ \\
+  & N_2 > 0 \quad \quad ln^2x > 0 \\
+\end{aligned}
+\]
+
+### 1.3 Eventuali simmetrie
+
+Ricerca di eventuali simmetrie di $f(x)$ attraverso l'analisi di parità e disparità.
+
+\[ f(-x) =
+    \begin{cases}
+        \sqrt{1+x} & \quad se \: x < 1 \\
+        -\frac{1}{x}ln^2(-x) & \quad se \: x \geq 1
+    \end{cases}
+\]
+
+$f(x)$ non è pari.
+
+\[ -f(-x) =
+    \begin{cases}
+        -\sqrt{1+x} & \quad se \: x < 1 \\
+        \frac{1}{x}ln^2(-x) & \quad se \: x \geq 1
+    \end{cases}
+\]
+
+$f(x)$ non è dispari.
+
+\[
+\begin{tikzpicture}
+\draw[->] (-6,0) -- (9,0) node[right] {$x$};
+\draw[->] (0,-1) -- (0,3) node[above] {$y$};
+\draw[scale=1,domain=-6:1,smooth,variable=\x,blue] plot ({\x},{sqrt(1-\x)});
+\draw[scale=1,domain=1+0.001:9,smooth,variable=\x,blue]  plot({\x},{1/\x*ln(\x)^2});
+\node [align=left] at (-0.4,-0.4) {\bf 0};
+\node [align=left] at (1,-0.4) {\bf 1};
+\node [align=left] at (-0.4,1.5) {\bf 1};
+\end{tikzpicture}
+\]
+
+## 2. Andamento agli estremi del dominio
+
+Analisi dell'andamento di $f(x)$ al tendere di $x$ a $+\infty$ e a $-\infty$, essendo $D_{f(x)}\equiv I\!\!R$.
+
+\[
+\lim\limits_{x \to +\infty} f(x) = \lim\limits_{x \to +\infty} \frac{1}{x}ln^2x = \lim\limits_{x \to +\infty} \frac{ln^2x}{x} \: \stackrel{H}{=} \: \lim\limits_{x \to +\infty} \frac{2\:lnx}{x} \: \stackrel{H}{=} \: \lim\limits_{x \to +\infty} \:\frac{2}{x^2} = 0
+\]
+
+\[
+\lim\limits_{x \to -\infty} f(x) = \lim\limits_{x \to -\infty} \frac{1}{x}ln^2x = 0
+\]
+
+$f(x)$ ha per asintoto orizzontale la retta $y = 0$, ovvero l'asse delle ascisse.
+
+## 3. Continuità
+
+Analisi dell'andamento di $f(x)$ al tendere di $x$ all'estremo comune degli intervalli in cui sono definiti i suoi tratti.
+
+\[
+\lim\limits_{x \to 1^+} f(x) = \lim\limits_{x \to 1^+} \frac{1}{x}ln^2x = 0
+\]
+
+\[
+\lim\limits_{x \to 1^-} f(x) = \lim\limits_{x \to 1^-} \sqrt{1-x} = 0
+\]
+
+Poiché $\lim\limits_{x \to 1^+} f(x) = \lim\limits_{x \to 1^-} f(x)$, la funzione $f(x)$ è continua in $I\!\!R$.
+
+## 4. Eventuali punti di discontinuità
+
+La funzione $f(x)$ è continua in $I\!\!R$.
+
+## 5. Derivabilità
+
+\[ f'(x) =
+  \begin{cases}
+      D[\:\sqrt{1-x}\:] & \quad se \: x < 1 \\
+      D[\frac{1}{x}ln^2x] & \quad se \: x \geq 1
+  \end{cases}
+\]
+\[ f'(x) =
+  \begin{cases}
+    \frac{1}{2\sqrt{1-x}} & \quad se \: x < 1 \\
+    -\frac{1}{x^2}ln^2x\:-\:\frac{1}{x}\frac{2\:lnx}{x} & \quad se \: x \geq 1
+  \end{cases}
+\]
+\[ f'(x) =
+  \begin{cases}
+    \frac{1}{2\sqrt{1-x}} & \quad se \: x < 1 \\
+    -\frac{ln^2x}{x^2}\:-\:\frac{2\:lnx}{x^2} & \quad se \: x \geq 1
+  \end{cases}
+\]
+\[ f'(x) =
+  \begin{cases}
+    \frac{1}{2\sqrt{1-x}} & \quad se \: x < 1 \quad \quad D: 1-x > 0; \quad x < 1\\
+    -\frac{ln^2x\;+\;2lnx}{x^2} & \quad se \: x \geq 1 \quad \quad D: x > 0
+  \end{cases}
+\]
+
+Analisi dell'andamento di $f'(x)$ al tendere di $x$ all'estremo comune degli intervalli in cui sono definiti i suoi tratti.
+
+\[
+f'_{-}(1) = \lim\limits_{x \to 1^-} f'(x) = \lim\limits_{x \to 1^-} \frac{1}{2\sqrt{1-x}} = -\infty
+\]
+
+\[
+f'_{+}(1) = \lim\limits_{x \to 1^+} f'(x) = \lim\limits_{x \to 1^+} -\frac{ln^2x\;+\;2lnx}{x^2} = 0
+\]
+
+## 6. Eventuali punti di non derivabilità
+
+La funzione $f(x)$ non è derivabile in $x = 1$, in cui essa presenta un punto angoloso.
+
+## 7. Concavità
+
+Determinazione di $f''(x)$.
+ 
+\[ f''(x) =
+  \begin{cases}
+    D[\frac{1}{2\sqrt{1-x}}] & \quad se \: x < 1 \quad \quad \\
+    D[-\frac{ln^2x\;+\;2\:lnx}{x^2}] & \quad se \: x \geq 1
+  \end{cases}
+\]
+
+\[ f''(x) =
+  \begin{cases}
+    -\frac{\frac{2}{2\sqrt{1-x}}}{4(1-x)} & \quad se \: x < 1 \quad \quad \\ \\
+    -\frac{\left(\frac{2\:lnx}{x} + \frac{2}{x}\right)x^2\:-\:2x\left(ln^2x+2\:lnx\right)}{x^4}  & \quad se \: x \geq 1
+  \end{cases}
+\]
+
+\[ f''(x) =
+  \begin{cases}
+    -\frac{\frac{2}{2\sqrt{1-x}}}{4(1-x)} & \quad se \: x < 1 \quad \quad \\ \\
+    -\frac{\left(\frac{2\:lnx}{x} + \frac{2}{x}\right)x^2\:-\:2x\left(ln^2x+2\:lnx\right)}{x^4}  & \quad se \: x \geq 1
+  \end{cases}
+\]
+
+\[ f''(x) =
+  \begin{cases}
+    -\frac{1}{4(1-x)\sqrt{1-x}} & \quad se \: x < 1 \quad \quad \\ \\
+    -\frac{\left(\frac{2\:lnx \,+\, 2}{x}\right)x^2\:-\:2x\,ln^2x\:+\:4x\:lnx}{x^4}  & \quad se \: x \geq 1
+  \end{cases}
+\]
+
+\[ f''(x) =
+  \begin{cases}
+    -\frac{1}{4(1-x)\sqrt{1-x}} & \quad se \: x < 1 \quad \quad \\ \\
+    -\frac{2x\:lnx \,+\, 2x\:-\:2x\,ln^2x\:+\:4x\:lnx}{x^4}  & \quad se \: x \geq 1
+  \end{cases}
+\]
+
+\[ f''(x) =
+  \begin{cases}
+    -\frac{1}{4(1-x)\sqrt{1-x}} & \quad se \: x < 1 \quad \quad \\ \\
+    -\frac{2\:lnx \,+\, 2\:-\:2\,ln^2x\:+\:4\:lnx}{x^3}  & \quad se \: x \geq 1
+  \end{cases}
+\]
+
+\[ f''(x) =
+  \begin{cases}
+    -\frac{1}{4(1-x)\sqrt{1-x}} & \quad se \: x < 1 \quad \quad \\ \\
+    -\frac{2\:-\:2\,ln^2x\:+\:6\:lnx}{x^3}  & \quad se \: x \geq 1
+  \end{cases}
+\]
+
+\[ f''(x) =
+  \begin{cases}
+    -\frac{1}{4(1-x)\sqrt{1-x}} & \quad se \: x < 1 \quad \quad \\ \\
+    \frac{2\,ln^2x\:-\:6\:lnx\:-\,2}{x^3}  & \quad se \: x \geq 1
+  \end{cases}
+\]
+
+Determinazione delle concavità di $f(x)$ attraverso l'analisi del segno di $f''(x)$.
+
+\[ f''(x) > 0 \iff
+  \begin{cases}
+    -\frac{1}{4(1-x)\sqrt{1-x}} > 0 & \quad se \: x < 1 \quad \quad \\ \\
+    \frac{2\,ln^2x\:-\:6\:lnx\:-\,2}{x^3} > 0  & \quad se \: x \geq 1
+  \end{cases}
+\]
+
+\[
+\begin{aligned}
+\\
+\frac{\overbrace{-1}^{N}}{\underbrace{4(1-x)\sqrt{1-x}}_{D}} > 0 \quad con\;x < 1\\[20pt]
+\begin{aligned}
+& N > 0 \: \iff \: -1 > 0 \quad \bot \\[10pt]
+& D > 0 \: \iff \: 4\underbrace{(1-x)}_{D_1}\:\underbrace{\sqrt{1-x}}_{D_2} > 0 \\[10pt]
+& \qquad D_1 > 0 \: \iff \: \begin{aligned} 1 - x > 0 \\  -x > -1 \\ x < 1\end{aligned} \\[10pt]
+& \qquad D_2 > 0 \: \iff \: \begin{aligned}\sqrt{1-x} > 0 \\ \forall \: x \, \in I\!\!R\end{aligned} \\ \\
+\end{aligned} \\
+\end{aligned}
+\]
+
+\[
+\begin{cases}
+N < 0 \;\; \forall \: x \, \in I\!\!R \\
+D > 0 \;\; \forall \: x \, \in I\!\!R
+\end{cases} \implies \: -\frac{1}{4(1-x)\sqrt{1-x}} \: < \: 0 \:\: \forall \: x \, \in I\!\!R
+\]
+
+\[
+\begin{aligned}
+\\
+\frac{\overbrace{2\,ln^2x\:-\:6\:lnx\:-\,2}^{N}}{\underbrace{x^3}_{D}} > 0 \quad con\;x \geq 1\\[20pt]
+\begin{aligned}
+& N > 0 \: \iff \: \begin{aligned} 2\,ln^2x\:-\:6\:lnx\:-\,2 \: > \: 0 \\ ln^2x\:-\:3\:lnx\:-\,1 \: > \: 0 \end{aligned} \\[10pt]
+& \qquad (ln\,x)_{1/2} = \frac{3 \: \pm \: \sqrt{9\,-\,4}}{2} = \frac{3 \: \pm \: \sqrt{5}}{2}\\[10pt]
+& \qquad \frac{3 \: - \: \sqrt{5}}{2} < \: ln\,x \: < \frac{3 \: + \: \sqrt{5}}{2}\\[10pt]
+& \qquad e^{\frac{3 \: - \: \sqrt{5}}{2}} < \: x \: < e^{\frac{3 \: + \: \sqrt{5}}{2}}\\[10pt] 
+& D > 0 \: \iff \: \begin{aligned} x^3 > 0 \\ x > 0 \end{aligned} \\[10pt]
+\end{aligned}
+\end{aligned}
+\]
