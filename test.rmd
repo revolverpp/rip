@@ -7,6 +7,8 @@ header-includes:
 - \usepackage{tikz}
 - \usepackage{nccmath}
 - \usepackage{amsmath}
+- \usepackage{tikz-feynman}
+- \pagenumbering{gobble}
 ---
 
 Studiare la funzione
@@ -146,19 +148,19 @@ La funzione $f(x)$ è continua in $I\!\!R$.
 \]
 \[ f'(x) =
   \begin{cases}
-    \frac{1}{2\sqrt{1-x}} & \quad se \: x < 1 \\
+    -\frac{1}{2\sqrt{1-x}} & \quad se \: x < 1 \\
     -\frac{1}{x^2}ln^2x\:-\:\frac{1}{x}\frac{2\:lnx}{x} & \quad se \: x \geq 1
   \end{cases}
 \]
 \[ f'(x) =
   \begin{cases}
-    \frac{1}{2\sqrt{1-x}} & \quad se \: x < 1 \\
+    -\frac{1}{2\sqrt{1-x}} & \quad se \: x < 1 \\
     -\frac{ln^2x}{x^2}\:-\:\frac{2\:lnx}{x^2} & \quad se \: x \geq 1
   \end{cases}
 \]
 \[ f'(x) =
   \begin{cases}
-    \frac{1}{2\sqrt{1-x}} & \quad se \: x < 1 \quad \quad D: 1-x > 0; \quad x < 1\\
+    -\frac{1}{2\sqrt{1-x}} & \quad se \: x < 1 \quad \quad D: 1-x > 0; \quad x < 1\\
     -\frac{ln^2x\;+\;2lnx}{x^2} & \quad se \: x \geq 1 \quad \quad D: x > 0
   \end{cases}
 \]
@@ -166,7 +168,7 @@ La funzione $f(x)$ è continua in $I\!\!R$.
 Analisi dell'andamento di $f'(x)$ al tendere di $x$ all'estremo comune degli intervalli in cui sono definiti i suoi tratti.
 
 \[
-f'_{-}(1) = \lim\limits_{x \to 1^-} f'(x) = \lim\limits_{x \to 1^-} \frac{1}{2\sqrt{1-x}} = -\infty
+f'_{-}(1) = \lim\limits_{x \to 1^-} f'(x) = \lim\limits_{x \to 1^-} -\frac{1}{2\sqrt{1-x}} = +\infty
 \]
 
 \[
@@ -183,21 +185,21 @@ Determinazione di $f''(x)$.
  
 \[ f''(x) =
   \begin{cases}
-    D[\frac{1}{2\sqrt{1-x}}] & \quad se \: x < 1 \quad \quad \\
+    D[-\frac{1}{2\sqrt{1-x}}] & \quad se \: x < 1 \quad \quad \\
     D[-\frac{ln^2x\;+\;2\:lnx}{x^2}] & \quad se \: x \geq 1
   \end{cases}
 \]
 
 \[ f''(x) =
   \begin{cases}
-    -\frac{\frac{2}{2\sqrt{1-x}}}{4(1-x)} & \quad se \: x < 1 \quad \quad \\ \\
+    \frac{-\frac{2}{2\sqrt{1-x}}}{4(1-x)} & \quad se \: x < 1 \quad \quad \\ \\
     -\frac{\left(\frac{2\:lnx}{x} + \frac{2}{x}\right)x^2\:-\:2x\left(ln^2x+2\:lnx\right)}{x^4}  & \quad se \: x \geq 1
   \end{cases}
 \]
 
 \[ f''(x) =
   \begin{cases}
-    -\frac{\frac{2}{2\sqrt{1-x}}}{4(1-x)} & \quad se \: x < 1 \quad \quad \\ \\
+    \frac{-\frac{2}{2\sqrt{1-x}}}{4(1-x)} & \quad se \: x < 1 \quad \quad \\ \\
     -\frac{\left(\frac{2\:lnx}{x} + \frac{2}{x}\right)x^2\:-\:2x\left(ln^2x+2\:lnx\right)}{x^4}  & \quad se \: x \geq 1
   \end{cases}
 \]
@@ -254,17 +256,19 @@ Determinazione delle concavità di $f(x)$ attraverso l'analisi del segno di $f''
 & N > 0 \: \iff \: -1 > 0 \quad \bot \\[10pt]
 & D > 0 \: \iff \: 4\underbrace{(1-x)}_{D_1}\:\underbrace{\sqrt{1-x}}_{D_2} > 0 \\[10pt]
 & \qquad D_1 > 0 \: \iff \: \begin{aligned} 1 - x > 0 \\  -x > -1 \\ x < 1\end{aligned} \\[10pt]
-& \qquad D_2 > 0 \: \iff \: \begin{aligned}\sqrt{1-x} > 0 \\ \forall \: x \, \in I\!\!R\end{aligned} \\ \\
+& \qquad D_2 > 0 \: \iff \: \begin{aligned}\sqrt{1-x} > 0 \\ \forall \: x \, \in D_2 \end{aligned} \\ \\
 \end{aligned} \\
 \end{aligned}
 \]
 
 \[
 \begin{cases}
-N < 0 \;\; \forall \: x \, \in I\!\!R \\
-D > 0 \;\; \forall \: x \, \in I\!\!R
-\end{cases} \implies \: -\frac{1}{4(1-x)\sqrt{1-x}} \: < \: 0 \:\: \forall \: x \, \in I\!\!R
+N < 0 \;\; \forall \: x \, \in D_1 \\
+D > 0 \;\; \forall \: x \, \in D_2
+\end{cases} \implies \: \frac{1}{4(1-x)\sqrt{1-x}} \: < \: 0 \:\: \forall \: x \, \in I\!\!R
 \]
+
+La concavità di $f(x)$ con $x < 1$ è sempre rivolta verso il basso.
 
 \[
 \begin{aligned}
@@ -273,9 +277,171 @@ D > 0 \;\; \forall \: x \, \in I\!\!R
 \begin{aligned}
 & N > 0 \: \iff \: \begin{aligned} 2\,ln^2x\:-\:6\:lnx\:-\,2 \: > \: 0 \\ ln^2x\:-\:3\:lnx\:-\,1 \: > \: 0 \end{aligned} \\[10pt]
 & \qquad (ln\,x)_{1/2} = \frac{3 \: \pm \: \sqrt{9\,-\,4}}{2} = \frac{3 \: \pm \: \sqrt{5}}{2}\\[10pt]
-& \qquad \frac{3 \: - \: \sqrt{5}}{2} < \: ln\,x \: < \frac{3 \: + \: \sqrt{5}}{2}\\[10pt]
-& \qquad e^{\frac{3 \: - \: \sqrt{5}}{2}} < \: x \: < e^{\frac{3 \: + \: \sqrt{5}}{2}}\\[10pt] 
-& D > 0 \: \iff \: \begin{aligned} x^3 > 0 \\ x > 0 \end{aligned} \\[10pt]
+& \qquad ln\,x < \frac{3 \: - \: \sqrt{5}}{2} \quad \lor \quad ln\,x > \frac{3 \: + \: \sqrt{5}}{2}\\[10pt]
+& \qquad x < e^{\frac{3 \: - \: \sqrt{5}}{2}} \quad \lor \quad x > e^{\frac{3 \: + \: \sqrt{5}}{2}}\\[10pt] 
+& D > 0 \: \iff \: \begin{aligned} x^3 > 0 \\ x > 0 \\ \forall \: x \, \in D_2 \end{aligned} \\[10pt]
 \end{aligned}
 \end{aligned}
 \]
+
+\[
+\begin{tikzpicture}
+\draw[->] (-2,0) -- (2,0);
+\draw (-2,-2) -- (2,-2) node[pos=-0.1] {D};
+\draw (-1,0) -- (-1,-3) node[pos=-0.1] {$e^{\frac{3 \: - \: \sqrt{5}}{2}}$};
+\draw (1,0) -- (1,-3) node[pos=-0.1] {$e^{\frac{3 \: + \: \sqrt{5}}{2}}$};
+\draw[dotted] (-1,-1) -- (1,-1);
+\draw (-2,-1) -- (-1,-1) node[pos=-0.35] {N};
+\draw (1,-1) -- (2,-1);
+\filldraw [color=black, fill=white, thick] (-1,-1) circle (2pt);
+\filldraw [color=black, fill=white, thick] (1,-1) circle (2pt);
+\draw[thick] (-1.75,-3.5) arc (180:360:0.1);
+\draw[thick] (0.1,-3.6) arc (0:180:0.1);
+\draw[thick] (1.75,-3.5) arc (180:360:0.1);
+\end{tikzpicture}
+\]
+
+## 8. Nei punti di non derivabilità determinare le equazioni delle rette tangenti alla curva
+
+Determinazione delle rette tangenti a $f(x)$ nel punto $x = 1$.
+
+\[
+f'(x) = -\frac{ln^2x\;+\;2lnx}{x^2} \quad con \: x \geq 1 
+\]
+
+\[
+T(1, 0)
+\]
+
+\[
+t: \: y - 0 = f'(1) \cdot (x - 1) \\
+\]
+
+\[
+y = 0
+\]
+
+Nel punto angoloso $x = 1$ la funzione $f(x)$ ha come retta tangente $y = 0$.
+
+## 9. Individuare un intervallo nel quale la funzione verifica le ipotesi di uno dei teoremi sulle funzioni derivabili e trovare il punto la cui esistenza è assicurata dal teorema scelto
+
+Applicazione del teorema di Lagrange nell'intervallo $[-8;-3].$
+
+La funzione $f(x)$ è continua e derivabile nell'intervallo scelto, pertanto vale
+
+\[
+f(b) - f(a) = f'(c) \: \cdot \: (b-a)
+\]
+
+\[
+f'(c) = \frac{f(b) \: - \: f(a)}{b \: - \: a}
+\]
+
+\[f'(c) = \frac{f(-3) \: - \: f(-8)}{-3 \: - \: (-8)} = \frac{\sqrt{4}\:-\:\sqrt{9}}{-3\:+\:8} = -\frac{1}{5}
+\]
+
+\[
+-\frac{1}{2\sqrt{1-c}} = -\frac{1}{5}
+\]
+
+\[
+2\sqrt{1-c} = 5
+\]
+
+\[
+2\sqrt{1-c} = 5; \quad \sqrt{1-c} = \frac{5}{2}; \quad 1 - c = \frac{25}{4}
+\]
+
+\[
+c = -\frac{25}{4} + 1 = -\frac{21}{4}
+\]
+
+## 10. Individuare un intervallo [a;b] con 1 < a < b in cui calcolare l’area del trapezoide delimitato dal grafico della funzione e dall’asse x
+
+Calcolo dell'area del trapezoide delimitato da $f(x)$ e dall'asse x nell'intervallo $[e;e^2]$.
+
+\[
+\int_e^{e^2} f(x) \: \mathrm{d}x = \int_e^{e^2} \frac{ln^2x}{x} \: \mathrm{d}x = \left[ln^2x \: \cdot \frac{1}{x}\right]_e^{e^2} = \left[\frac{ln^3x}{3}\right]_e^{e^2} = \frac{ln^3\,e^2 \: - \:ln^3\,e}{3} \: = \: \frac{2\,ln^3\,e \: - \:ln^3\,e}{3} \: = \: \frac{1}{3}
+\]
+
+## 11. Calcolare il volume del solido che si ottiene facendo ruotare il triangolo mistilineo individuato da f(x) e dagli assi cartesiani attorno all’asse delle y.
+
+
+## 12. Applicazione fisica 
+Supponendo che un punto materiale, vincolato a muoversi su una retta, sia soggetto ad una forza che
+varia in funzione della posizione secondo la legge F(x) = $\frac{1}{x} \cdot ln^2x$ (in unità del S.I.), calcolare il lavoro compiuto da F(x) quando il punto materiale si sposta da x = e all’infinito.
+
+Per definizione, vale:
+
+\[
+W = \overrightarrow{F} \, \cdot \, \overrightarrow{\Delta s}\mathrm{.}
+\]
+
+Muovendosi il punto di moto rettilineo, vale:
+
+\[
+W = F \, \cdot \, \Delta s\mathrm{.}
+\]
+
+Analizzando uno spostamento infinitesimale rettilineo su un asse $x$ fissato, valgono:
+
+\[
+F = \frac{\mathrm{d}\,W}{\mathrm{d}\,\Delta x},
+\]
+
+\[
+W = \int_a^b F(x) \mathrm{d}x
+\]
+
+Calcolo del lavoro compiuto da una forza F, il cui andamento variabile è descritto dalla funzione $F(x) = \frac{1}{x} \cdot ln^2x$, nello spostamento di un punto materiale da $x = e$ a $x = +\infty$.
+
+\[
+W = \int_e^{+\infty} \: \frac{1}{x} \cdot ln^2x \:\mathrm{d}x
+\]
+
+Risoluzione dell'integrale improprio attraverso l'introduzione di una variabile ausiliaria $t$ e il computo dell'integrale al tendere di $t$ a $+\infty$.
+
+\[
+\lim\limits_{t \to +\infty} \int_e^t \: \frac{1}{x} \cdot ln^2x \:\mathrm{d}x = \lim\limits_{t \to +\infty} \left[\frac{ln^3x}{3}\right]_e^t = \lim\limits_{t \to +\infty} \left(\frac{ln^3t}{3} - \frac{ln^3e}{3}\right) = \lim\limits_{t \to +\infty} \left(\frac{ln^3t}{3} - \frac{1}{3}\right) = +\infty
+\]
+
+\pagebreak
+
+## Trattazione fisica: "L'effetto fotoelettrico: dall'esperimento di Lenard alla spiegazione di Einstein."
+
+Alla base del funzionamento delle celle *fotoelettriche* e dunque dei moderni sensori di apertura di porte e cancelli elettrici c'è un fenomeno fisico denominato effetto **fotoelettrico**. A scoprirlo sperimentalmente fu Philipp **Lenard** nel 1902, misurando la corrente in un circuito composto da un tubo a vuoto esposto a radiazioni ad ampio spettro. Lenard voleva dimostrare che le radiazioni immesse nel tubo, colpendo una lastra metallica al suo interno (il catodo), avrebbero determinato la liberazione di elettroni, che sarebbero poi stati raccolti dall'anodo, chiudendo il circuito; una corrente sarebbe stata rilevata dall'amperometro.
+
+Contrariamente alle aspettative dello scienziato tedesco, non solo l'energia degli elettroni liberati non risultava dipendente dall'irradiamento della lastra, ma non tutte le radiazioni dello spettro elettromagnetico sembravano produrre una fuoriuscita di elettroni dal catodo.
+
+Fu Albert Einstein nel 1905 a fornire una spiegazione formale, peraltro motivo di attribuzione del premio Nobel per la fisica. Applicazione fisica della teoria quantistica formulata da Max Planck alcuni anni prima, l'interpretazione di Einstein dell'effetto fotoelettrico affianca ai *quanti* di energia i *fotoni* luminosi, particelle prive di massa costituenti le radiazioni elettromagnetiche.
+La nuova natura **discreta** della radiazione elettromagnetica, e quindi quella **corpuscolare** della luce, affianca ora il carattere ondulatorio con cui era stata precedentemente descritta e spiega l'indipendenza dell'energia cinetica degli elettroni estratti dall'intensità dell'irradiamento della superficie metallica, così come l'esistenza di una frequenza minima perché avvenga la liberazione degli elettroni, indicata con $f_{min}$ e chiamata **soglia fotoelettrica**.
+
+Nella sua teorizzazione degli scambi discreti di energia tra radiazioni e materia, Planck aveva infatti affermato che le prime trasferissero un'energia
+
+\[
+E = n\,\,h\,f,
+\]
+
+dove $n$ è un numero intero di "pacchetti" di energia, $h$ è una costante, di cui approssimò il valore a $6.62607015 \cdot 10^{-34}\,J\,\cdot\,s$, ed $f$ rappresenta la frequenza fondamentale della radiazione. Applicata all'effetto fotoelettrico, la teoria quantistica stabilisce dunque che, affinché si verifichi l'estrazione di un elettrone da una lastra di un metallo il cui lavoro di estrazione sia $W_e$, la radiazione elettromagnetica che interagisce con esso deve avere un'energia almeno pari a $hf$. In tal caso deve quindi valere
+
+\[
+hf \geq W_e
+\]
+
+e dunque
+
+\[
+f_{min} \geq \frac{W_e}{h}\mathrm{.}
+\]
+
+La teoria di Einstein fornisce quindi una spiegazione rigorosa dei risultati dell'esperimento di Lenard, la cui formalizzazione matematica è data dall'applicazione della teoria quantistica di Planck.
+
+\[
+\begin{tikzpicture}
+\draw[->, violet] (-1,-2) -- (-1.5,-2.6);
+\draw[->, violet] (0,-2) -- (-0.5,-2.6);
+\draw[->, violet] (1,-2) -- (0.5,-2.6);
+\draw (-2,-3) -- (2,-3);
+\end{tikzpicture}
+\]
+
